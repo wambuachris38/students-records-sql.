@@ -7,7 +7,7 @@ This project implements a complete relational database system for managing stude
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/student-records-db.git
+   git clone https://github.com/wambuachris38/student-records-db.git
    
 source path/to/student_records.sql;
 📁 student-records-db/
